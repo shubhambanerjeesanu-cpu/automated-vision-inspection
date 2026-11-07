@@ -10,4 +10,5 @@ A Python-based edge-detection pipeline designed for automated surface defect tra
 ## 💻 Tech Stack
 - **Language:** Python 3.x
 - **Core Library:** OpenCV (`cv2`)
-- 
+
+  
